@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ecb Rates From Uri</string>
+    <string name="error_label">Ошибка: </string>
+    <string name="loading">Загрузка...</string>
+</resources>
